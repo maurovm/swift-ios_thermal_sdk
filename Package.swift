@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     
-    name      : "ios_thermal_sdk",
+    name      : "swift-ios_thermal_sdk",
     platforms : [ .iOS("15.2") ],
     products  :
         [
