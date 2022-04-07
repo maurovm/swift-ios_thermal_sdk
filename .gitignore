@@ -89,3 +89,11 @@ Package.resolved
 .swiftpm
 
 .build/
+
+
+
+####################
+# Swift Binary Package
+####################
+
+Binaries
