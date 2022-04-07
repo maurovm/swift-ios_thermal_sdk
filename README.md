@@ -1,4 +1,4 @@
-# FLIRThermalSDK
+# iOSThermalSDK
 
 A Swift Package wrapping the multi-plaftform XCFrameworks for FLIR Mobile SDK.
 
