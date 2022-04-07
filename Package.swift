@@ -30,44 +30,43 @@ let package = Package(
         [
             .binaryTarget(
                 name : "ThermalSDK",
-                url  : "https://~/lib/ios_thermal_sdk/ThermalSDK.xcframework.zip",
-                checksum: "5ab1a41376294b7136f9aa9ae4c633e57383969ce32c2a65e6e8ce6098165e9d"
+                path  : "Binaries/ThermalSDK.xcframework"
             ),
             .binaryTarget(
                 name : "MeterLink",
-                path : "file://~/lib/ios_thermal_sdk/MeterLink.xcframework.zip"
+                path : "Binaries/MeterLink.xcframework"
             ),
             .binaryTarget(
                 name : "libavcodec.58.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libavcodec.58.dylib.xcframework.zip"
+                path : "Binaries/libavcodec.58.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libavdevice.58.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libavdevice.58.dylib.xcframework.zip"
+                path : "Binaries/libavdevice.58.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libavfilter.7.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libavfilter.7.dylib.xcframework.zip"
+                path : "Binaries/libavfilter.7.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libavformat.58.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libavformat.58.dylib.xcframework.zip"
+                path : "Binaries/libavformat.58.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libavutil.56.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libavutil.56.dylib.xcframework.zip"
+                path : "Binaries/libavutil.56.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "liblive666.dylib",
-                path : "file://~/lib/ios_thermal_sdk/liblive666.dylib.xcframework.zip"
+                path : "Binaries/liblive666.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libswresample.3.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libswresample.3.dylib.xcframework.zip"
+                path : "Binaries/libswresample.3.dylib.xcframework"
             ),
             .binaryTarget(
                 name : "libswscale.5.dylib",
-                path : "file://~/lib/ios_thermal_sdk/libswscale.5.dylib.xcframework.zip"
+                path : "Binaries/libswscale.5.dylib.xcframework"
             )
         ]
 
