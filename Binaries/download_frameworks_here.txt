@@ -1,0 +1,2 @@
+Follow the README.md instructions to download the frameworks from FLIR
+
