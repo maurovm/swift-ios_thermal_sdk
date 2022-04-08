@@ -23,7 +23,7 @@ account:
 Your "Binaries" folder should look similar to:
 
 ```bash
-[:repository]$ ls -1F platforms/ios/modules/ThermalSDK/Binaries/
+[:swift-ios_thermal_sdk]$ ls -1F Binaries/
 MeterLink.xcframework/
 ThermalSDK.xcframework/
 libavcodec.58.dylib.xcframework/
