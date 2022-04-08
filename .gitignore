@@ -97,3 +97,5 @@ Package.resolved
 ####################
 
 Binaries/*
+!Binaries/download_frameworks_here.txt
+
