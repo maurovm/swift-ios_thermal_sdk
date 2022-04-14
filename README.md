@@ -5,6 +5,8 @@ This repository only provides the Swift Package definition and supported
 documentation. You need to subscribe to FLIR's developer network and download
 the mobile SDK binaries to be able to use this module.
 
+---
+
 If you use this app in your projects and publish the results, please cite the
 following manuscript:
 
