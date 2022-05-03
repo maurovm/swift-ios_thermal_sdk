@@ -39,7 +39,7 @@ Swift library.
 ## Installing the FLIR Mobile SDK
 
 
-> IMPORTANT: The only supported version is: FLIR Mobile SDK version 1.11.0
+> IMPORTANT: The only supported version is: FLIR Mobile SDK version 1.12.0
 
 
 After you clone this repository, go to "https://www.flir.co.uk/developer/mobile-sdk/"
@@ -50,7 +50,7 @@ and login using your developer account:
   "SDK Downloads (Updated XXX)"
 - From the "Apple iOS SDK and Sample Code" section, download the zip file
   "iOS (multiplatform xcframeworks)" into a temporary folder in your computer
-- You should have the file "thermal-sdk-ios-objc-1.11.0.zip"
+- You should have the file "thermal-sdk-ios-objc-1.12.0.zip"
 - Uncompress the .zip file and copy all its contents, except the "Doc" folder,
   into the "Binaries" of this package
 
